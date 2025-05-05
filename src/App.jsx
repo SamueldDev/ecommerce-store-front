@@ -15,7 +15,6 @@ import Footer from './components/Footer';
 import NotFound from './pages/NotFound';
 
 
-
 export default function App() {
   return (
 

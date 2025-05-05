@@ -1,21 +1,6 @@
 
 
-
-
 import React from 'react'
-
-// export default function NotFound() {
-//   return (
-//     <div>
-      
-//     </div>
-//   )
-// }
-
-
-
-
-// import React from "react";
 
 import { Link } from "react-router-dom";
 
